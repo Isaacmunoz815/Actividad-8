@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1601941360 source:d:\documents\ingeniería en informatica\seminario de solucion de estructura de datos 1\actividad 8\actividad 8\computadora.cpp
+	"Computadora.h"
+
+1601941383 d:\documents\ingeniería en informatica\seminario de solucion de estructura de datos 1\actividad 8\actividad 8\computadora.h
+	<iostream>
+
+1602527995 source:d:\documents\ingeniería en informatica\seminario de solucion de estructura de datos 1\actividad 8\actividad 8\main.cpp
+	<iostream>
+	"laboratorio.h"
+
+1602528343 d:\documents\ingeniería en informatica\seminario de solucion de estructura de datos 1\actividad 8\actividad 8\laboratorio.h
+	"Computadora.h"
+
